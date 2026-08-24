@@ -1,6 +1,6 @@
 {
-  "payload": "{\"apps\":[{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"c8c87e3b02806a5a6c524f0cfc298dfc9881afc190eacb746eb2fbdf5af6c54d\",\"salt\":\"iCjsmUAX6lOha/IyBEWRfA==\",\"wrapped_dek\":\"1z4f3YzKvlvM5BiztBARrsySu2BL9vEGQgv/gjd9a56absBW8FkBHHjatqa8cEPiuwwy2TmT3hdJa0X7\"}],\"project\":\"test\",\"target_sha256\":\"8c8c6325147b2fe1d12252b9222fb5f465ce40f18f5345f4d120d7e378d8ca6f\"},{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"c8c87e3b02806a5a6c524f0cfc298dfc9881afc190eacb746eb2fbdf5af6c54d\",\"salt\":\"iCjsmUAX6lOha/IyBEWRfA==\",\"wrapped_dek\":\"nwht7QeE4bG/VrWsn/I2ziJ549oFJoovyX44740enXGsc9Tp7YoB55wvY1pWsJAPDrBNM8I0foMxwloI\"}],\"project\":\"test\",\"target_sha256\":\"992d547bbf83f26f3117b27aaa2a2e2e665f76658b67c27e84b13dc379833eaa\"}],\"v\":2}",
-  "signature": "MEUCIFTSL3H6wRCBzbF6q6kMMxzPkgloPTNfPRa8aHcvu+xUAiEA8UuI6KjtDFFLfUj8JtJlO6laPFSPCfP5d5tjB60bkKI=",
+  "payload": "{\"apps\":[{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"5b0e32b96f50c1d2119c5e900af0c028a4e3887bf59eabd4864e435bf08f2081\",\"salt\":\"L7NGrprk3yLZaVJQozRAWQ==\",\"wrapped_dek\":\"Orc4BId2gEPteXkJl4EcLHLmKcZGKWBXTsTPvYddrAqiqXhRNcCHpJzJ7L+Jz56bAgmzUWdedKT2Vyng\"}],\"project\":\"Test Lock\",\"target_sha256\":\"992d547bbf83f26f3117b27aaa2a2e2e665f76658b67c27e84b13dc379833eaa\"}],\"v\":2}",
+  "signature": "MEQCIFGszRebotPI1Zhmd0p2r4V+ll5b/CpXJfcCKD9ADBfYAiAJUuIEmEd/ZtMYi+2m/4VwKHwdeSmX1s12pfDJ41TsnQ==",
   "alg": "ES256",
-  "generated": "2026-08-24T21:22:32Z"
+  "generated": "2026-08-24T21:26:50Z"
 }
