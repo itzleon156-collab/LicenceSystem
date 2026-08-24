@@ -1,6 +1,6 @@
 {
-  "payload": "{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"821f412e3e07bdeaed0cf1938d3f412a9f9476e93a96887fbb365c04a5910b1f\",\"salt\":\"1FakObMDQQixjgsnTct/7A==\",\"wrapped_dek\":\"ohWRe+JfG9Lj3BLgIIIQt93yXknpck8OsZPllXaqKD9clwfxlzir+IbQb94Y9YGPw0NcVfJRs0lrUcJj\"}],\"project\":\"test\",\"target_sha256\":\"992d547bbf83f26f3117b27aaa2a2e2e665f76658b67c27e84b13dc379833eaa\",\"v\":1}",
-  "signature": "MEYCIQCpDEz075tLDABXlxKUZo87FgDUj9TGScMVtpoPyxjebQIhAIt47lDZ0ty4SoXEtcbDsVfVJckw/3MbigzLTG8gfu0w",
+  "payload": "{\"apps\":[{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"efb244a34f0b75135980377f31bd86bcc6c11103793bf14760b483d8c1350ea8\",\"salt\":\"XPdVS0US/ePLMHT7q6m4ZA==\",\"wrapped_dek\":\"MklQ5WJg0u6iDzyva/n28Y4maHh/fbRpWVdtPsOfVaCVLXiBvJ4nfcMXDJB4UgImJv5jwYGo8BC3g0uj\"}],\"project\":\"test\",\"target_sha256\":\"8c8c6325147b2fe1d12252b9222fb5f465ce40f18f5345f4d120d7e378d8ca6f\"}],\"v\":2}",
+  "signature": "MEUCIQDK83ISGaDmORh1JA0lHcFunDAXtSIYmpW983d4tPdkVAIgUX8EfSqHmH0Tzol4kmzNMbQeH5Rf0IfZDZcgQnYJ8nw=",
   "alg": "ES256",
-  "generated": "2026-08-24T17:50:30Z"
+  "generated": "2026-08-24T18:55:42Z"
 }
