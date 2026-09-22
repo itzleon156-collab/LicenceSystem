@@ -1,6 +1,6 @@
 {
-  "payload": "{\"apps\":[{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"1433c7b7abf7c064e2d58015ee05c41d7f658632f3fd0fd653edc25b1856758c\",\"salt\":\"Uzn9QpWgy0sc1yGkoqxBpQ==\",\"wrapped_dek\":\"AS/Wzgr4fRljo75qy247DZLYh+IEvbk04cQFIwAihXoduE6TcE2PAlLqgH/b7wHidCEQKVbK2Pp996NA\"},{\"disabled\":false,\"expires\":\"2027-01-01\",\"key_id\":\"44e8d8fe42869f4ef89ba2463797483c6ff936bb3008a7a3099cef6c70610a95\",\"salt\":\"b5cz2nxBXeIpVfa9MIg9mQ==\",\"wrapped_dek\":\"RXuz7b5pJodXcKZrHsGmEMksZHSqAqP7UlIFHVIbLmNw1yukM5f0YgVSF9XlvY65PcX0FDU/+AEWBLAE\"},{\"disabled\":false,\"expires\":null,\"key_id\":\"5f59b59cb37181ec75201e7c9604d1c17f37ba6a9a619c27929f52eab8f8184d\",\"salt\":\"eA95pyMS64ZpV4FLpzBGdw==\",\"wrapped_dek\":\"a0JptAf0hvZHlHCXdABs5YOZJ6e74Ugx4q/xLv2gCYyguFnJYn7DCrm0+ZqoToskdz6sw6ohzAYtK3yf\"}],\"project\":\"test app\",\"target_sha256\":\"992d547bbf83f26f3117b27aaa2a2e2e665f76658b67c27e84b13dc379833eaa\"}],\"v\":2}",
-  "signature": "MEUCIEhVGtVXg8Myz7OJKaFizKcWgUxEcVz5TMKCgCXzUfb/AiEAxGNVXYz4vxSnToTY9E/W8ino+eF2W0kMy7q/EKOTQ54=",
+  "payload": "{\"apps\":[{\"licenses\":[{\"disabled\":false,\"expires\":null,\"key_id\":\"5f59b59cb37181ec75201e7c9604d1c17f37ba6a9a619c27929f52eab8f8184d\",\"salt\":\"eA95pyMS64ZpV4FLpzBGdw==\",\"wrapped_dek\":\"Pbrzx95/NxXexOUmLMKU6mOKT+homeLFs06kDfQp1Oge/HNsCCxaccsuIsONuEqBv0La/NdUs27NfM2P\"},{\"disabled\":false,\"expires\":null,\"key_id\":\"b0d62aa5d99cb86eb07967622d5c0694588333a46160c1899e3d4487388f6a84\",\"salt\":\"efqKjg+L6U2KW+iTFqCOKQ==\",\"wrapped_dek\":\"jKeaeSGvmFc2xvFaG3ZbHpc8ED5eCdxn2pgKn65Wx7jYOoZ0q9+PmYR8y2W42puexY69ZI8M7xJCNwhR\"}],\"project\":\"Game\",\"target_sha256\":\"c5631b84c99a75a5a07247224f7769bc01599093687eebae079bc200e0be1a1a\"}],\"v\":2}",
+  "signature": "MEQCIH4vuDQac179x6OrJmKB9tt90CnCEEYdWouvet+sj2PUAiB3Xn6jjC0favZIgePrvktAfJ4sGFbMjEMiBwNcFj7upw==",
   "alg": "ES256",
-  "generated": "2026-08-26T17:43:19Z"
+  "generated": "2026-09-22T18:42:54Z"
 }
